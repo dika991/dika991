@@ -54,6 +54,11 @@ Saya adalah seorang **Backend Developer** yang fokus pada pengembangan sistem ya
 Kalau kamu punya ide, proyek, atau sekadar ingin ngobrol seputar Rust, Laravel, atau arsitektur backend—feel free untuk reach me out!  
 📫 DM atau follow saya di sini, atau [LinkedIn](https://www.linkedin.com/in/fardikarh)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dika991/dika991/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dika991/dika991/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dika991/dika991/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 > _“Keep it clean, simple, and scalable.”_
