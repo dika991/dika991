@@ -5,6 +5,19 @@ Saya adalah seorang **Backend Developer** yang fokus pada pengembangan sistem ya
 
 ---
 
+## 🛠️ Bahasa & Teknologi yang Saya Kuasai
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
 ## 💼 Apa yang saya bisa?
 
 - ⚙️ **Backend Development** dengan PHP (Laravel), Rust, dan sedikit Node.js
@@ -39,7 +52,7 @@ Saya adalah seorang **Backend Developer** yang fokus pada pengembangan sistem ya
 ## 🤝 Yuk, ngobrol!
 
 Kalau kamu punya ide, proyek, atau sekadar ingin ngobrol seputar Rust, Laravel, atau arsitektur backend—feel free untuk reach me out!  
-📫 DM atau follow saya di sini, atau [LinkedIn](https://www.linkedin.com/) (ganti dengan link kamu ya!)
+📫 DM atau follow saya di sini, atau [LinkedIn](https://www.linkedin.com/in/fardikarh)
 
 ---
 
